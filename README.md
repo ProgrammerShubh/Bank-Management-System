@@ -17,6 +17,15 @@ The **Bank Management System** is a desktop-based application built using Java S
 - **MySQL**: For managing the bank’s customer and transaction data
 - **Java SE**: The core language for building the application
 
+## Admin/Manager Credentials
+To access the admin or manager functionalities, use the following credentials:
+
+- **Username**: Admin
+- **Password**: 1234
+
+These credentials allow access to administrative features such as account management, Update data, and create accounts.
+
+
 ## Project Structure
 ```plaintext
 BankManagementSystem/
